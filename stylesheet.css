@@ -57,8 +57,7 @@ body {
   padding-bottom: 48px;
 }
 
-.contact-form,
-form-field {
+.contact-form .form-field {
   position: relative;
   margin: 32px 0;
 }
